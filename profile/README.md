@@ -15,7 +15,8 @@ The project's mission is as follows:
 
 ## What's been done?
 
-> [!NOTE] Everything is a WIP (isn't almost everything so?)
+> [!NOTE]
+> Everything is a WIP (isn't almost everything so?)
 
 More on how I (@alanssitis) plan to build it [here papers-social/design](https://github.com/papers-social/design).
 
