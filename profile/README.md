@@ -1,4 +1,4 @@
-# [papers.social](papers.social)
+# [papers.social](http://papers.social)
 
 (_Hopefully_) A place where people can discover new papers, publicly review them,
 and talk about them.
